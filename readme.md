@@ -4,13 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer and Designer
 --------------------------
 
-A passionate Fullstack Developer from Nepal.
+A passionate Backend Developer from Nepal.
 
 * 🌍  I'm based in Pokhara
 * 🖥️  See my portfolio at [All of my projects are available at](http://github.com/adityabanstola)
 * ✉️  You can contact me at [banstola.aditya1@gmail.com](mailto:banstola.aditya1@gmail.com)
-* 🧠  I'm learning React JS
-* 🤝  I'm open to collaborating on Game Development
+* 🧠  I'm learning Cyber Security.
+* 🤝  I'm open to collaborating with the backend.
 * ⚡  Enjoy your life
 
 <a href="https://www.github.com/adityabanstola" target="_blank" rel="noreferrer"><img
