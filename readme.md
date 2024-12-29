@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer and Designer
 --------------------------
 
-A passionate Backend Developer from Nepal.
+A passionate Frontend Developer from Nepal.
 
 * 🌍  I'm based in Pokhara
 * 🖥️  See my portfolio at [All of my projects are available at](http://github.com/adityabanstola)
